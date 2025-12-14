@@ -45,7 +45,7 @@ Donate and support this project!
 ---
 
 
-# X99-D4
+# X99-P4
 
 
 MOD ROM OTIMIZED V4 CPU-Z VALIDATION 
